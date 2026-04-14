@@ -1,0 +1,10 @@
+Problem Solving - Fundamentals - Sheet 01
+
+This sheet includes a collection of problem-solving exercises focused on core concepts:
+
+• Data Types
+• Conditional Logic (if / else)
+
+These exercises are designed to build a strong foundation in logical thinking and data handling, which are essential skills for data analysis.
+
+Tools used: python
