@@ -1,3 +1,4 @@
+
 # S : Interval
 
 number = float(input())
