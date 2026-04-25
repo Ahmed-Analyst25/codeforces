@@ -1,4 +1,3 @@
-
 # E - Interval Sweep
 
 a, b = map(int, input().split())
