@@ -1,10 +1,10 @@
 # B - Even Numbers
 
-n = int(input())
+x = int(input())
 
 found = False
 
-for i in range(2, n + 1, 2):
+for i in range(2, x + 1, 2):
     print(i)
     found = True
 
